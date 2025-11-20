@@ -10,10 +10,7 @@ public class WEEK3_TUT
     double age; // instance variable
     static int qty; // static variable
     public static void main(String[]args){
-        byte s1= 67; // local variable
-        // implicit typecasting
-        long l1= s1;
-        System.out.println(l1);
+        
         // explicit typecasting
         double db= 10.01;
         System.out.println(db);
